@@ -1,0 +1,56 @@
+new
+push_back 1
+size 1
+size 0
+empty 0
+count 0 0
+count 1 1
+count 0 1
+count 1 0
+front 1
+back 1
+end
+value 0
+previous
+next
+next0
+value 0
+exit
+begin
+value 1
+previous
+next
+next
+previous
+value 1
+exit
+rbegin
+value 1
+previous
+next
+value 1
+exit
+rend
+value 0
+previous0
+next
+value 1
+exit
+find 1
+value 1
+previous
+next
+value 1
+next
+previous
+value 1
+exit
+find 0
+value 0
+previous
+next
+value 0
+next0
+exit
+delete
+summary

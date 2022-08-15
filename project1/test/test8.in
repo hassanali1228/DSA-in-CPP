@@ -1,0 +1,145 @@
+new
+size 0
+empty 1
+front!
+back!
+pop_front!
+pop_back!
+end
+next0
+exit
+rend
+previous0
+exit
+push_front 0.1
+push_back 0.1
+push_front 5.1
+push_back 5.1
+push_front 6.2
+push_back 6.2
+push_front 0.1
+push_back 0.1
+push_front 7.3
+push_back 7.3
+push_front 8.4
+push_back 8.4
+push_front 0.2
+push_back 0.2
+push_front 9.5
+push_back 9.5
+size 10
+empty 0 
+front 9.5
+back 9.5
+pop_front
+pop_back
+front 8.4
+back 8.4
+size 8
+erase 5.1 2
+erase 20 1
+size 6
+empty 0
+begin
+previous
+previous0
+next
+value 8.4
+next
+value 7.3
+next
+value 6.2
+next
+value 6.2
+next
+value 7.3
+next
+value 8.4
+next
+next0
+exit
+rbegin
+next
+next0
+previous
+value 8.4
+previous
+value 7.3
+find 0.1
+value 0.1
+previous
+value 6.2
+previous
+value 6.2
+find 0.2
+value 0.2
+previous
+value 7.3
+previous
+value 8.4
+previous
+previous0
+exit
+find 6.2
+value 6.2
+next
+value 6.2
+exit
+count 6.2 2
+push_front 2
+push_front 3
+push_front 4
+push_front 5
+push_front 4
+push_front 7
+push_front 4
+push_front 9
+pop_front
+pop_back
+pop_front
+pop_back
+pop_front
+pop_back
+pop_front!
+pop_back!
+size 0
+empty 1
+push_front 1
+pop_back
+push_back 1
+pop_front
+push_front 2
+push_front 3
+push_front 4
+push_front 5
+push_front 4
+push_front 7
+push_front 4
+push_front 9
+size 8
+count 4 3
+erase 4 3
+count 4 0
+size 5
+begin
+value 5
+next
+value 4
+next
+value 3
+next
+value 2
+next
+next0
+exit
+rbegin
+value 2
+previous
+value 3
+previous
+value 4
+previous
+value 5
+previous
+previous0
+exit

@@ -1,0 +1,16 @@
+FILE_A.h
+#include <iostream>
+#include <FILE_B.h>
+#include <FILE_C.h>
+FILE_B.h
+#include <iostream>
+#include <fstream>
+#include <FILE_C.h>
+FILE_C.h
+#include <iostream>
+FILE_D.h
+#include <cstdlib>
+FILE_E.h
+#include <goat>
+#include <iostream>
+#include <FILE_A.h>

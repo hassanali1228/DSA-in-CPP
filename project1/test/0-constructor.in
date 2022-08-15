@@ -1,0 +1,25 @@
+new
+size 0
+empty 1
+front!
+back!
+count 1 0
+count 0 0
+begin
+next0
+previous
+exit
+rbegin
+previous0
+next
+exit
+end
+next0
+previous
+exit
+rend
+previous0
+next
+exit
+delete
+summary
